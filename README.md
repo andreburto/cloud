@@ -1,6 +1,6 @@
 # CLOUD BIT CLIENT
 
-Working on a way to talk to my (cloudBit)[http://littlebits.cc/introducing-the-cloudbit] from my computer.
+Working on a way to talk to my [cloudBit](http://littlebits.cc/introducing-the-cloudbit) from my computer.
 
 ### cloud.js
 
@@ -12,5 +12,5 @@ Working on a way to talk to my (cloudBit)[http://littlebits.cc/introducing-the-c
 
 ### Links
 
-* (cloudBit Documentation)[http://developer.littlebitscloud.cc/]
-* (cloudBit)[http://littlebits.cc/introducing-the-cloudbit]
+* [cloudBit Documentation](http://developer.littlebitscloud.cc/)
+* [cloudBit](http://littlebits.cc/introducing-the-cloudbit)
